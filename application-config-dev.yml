@@ -1,4 +1,4 @@
 config:
   server:
-    username: admin
+    username: 测试
     password: admin
